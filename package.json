@@ -1,0 +1,19 @@
+{
+  "name": "detect-missing-await",
+  "version": "1.0.0",
+  "description": "Detects potential missing `await` calls in JavaScript/Typescript at runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/southpolesteve/detect-missing-await.git"
+  },
+  "author": "Steve Faulkner <southpolesteve@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/southpolesteve/detect-missing-await/issues"
+  },
+  "homepage": "https://github.com/southpolesteve/detect-missing-await#readme"
+}
